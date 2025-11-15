@@ -88,9 +88,13 @@ Predicted: Tomato___Late_blight (92.17%)
 
 🏠 Home Page
 
-<img src="screenshots/Home.png" width="600">📤 Upload Page
+<img src="screenshots/Home.png" width="600">
 
-<img src="screenshots/Upload.png" width="600">📊 Output Page
+📤 Upload Page
+
+<img src="screenshots/Upload.png" width="600">
+
+📊 Output Page
 
 <img src="screenshots/Output.png" width="600">
 ---
